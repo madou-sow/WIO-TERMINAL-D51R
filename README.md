@@ -57,3 +57,33 @@ achemine toutes les broches de votre microcontrôleur (par exemple Arduino) vers
 Grove riches pour des connexions instantanées, simples et sans soudure. Il existe déjà de
 nombreuses cartes Breakout pour différentes plates-formes, notamment Arduino Uno,
 Raspberry Pi, Beaglebone, etc.
+
+### Description
+La plateforme Wio (Wireless Input and Output) (Wio Link, Wio Nodes, etc.) a été présentée pour la
+première fois au monde fin 2015 par Seeed.
+
+Wio Terminal est compatible avec Arduino et Micropython, construit avec un microcontrôleur
+ATSAMD51 avec une connectivité sans fil prise en charge par Realtek RTL8720DN. Sa vitesse de
+processeur tourne à 120 MHz (Boost jusqu'à 200 MHz). La puce Realtek RTL8720DN prend en
+charge à la fois le Bluetooth et le Wi-Fi, fournissant l'épine dorsale des projets IoT. Le terminal Wio
+est hautement intégré avec un écran LCD de 2,4 pouces, il y a une IMU intégrée (LIS3DHTR), un
+microphone, un buzzer, un emplacement pour une carte microSD, un capteur de lumière et un
+émetteur infrarouge (IR 940nm).
+
+Il y a des aimants intégrés et deux trous de montage sur le boîtier bien conçu, vous permettant de
+configurer votre projet IoT sans tracas.
+
+En plus de cela, il dispose également de deux ports Grove multifonctionnels pour se connecter à
+plus de 300 modules et d'un GPIO compatible Raspberry Pi 40 broches pour des tonnes de modules
+complémentaires Pi HAT, ce qui signifie qu'il existe une infinité de possibilités IoT que vous
+pouvez créer avec ce petit appareil !
+
+Avec Wio Terminal, vous pouvez :
+- Détecter et étiqueter les données du monde réel avec plus de 300 bosquets créés par
+Seeed et visualiser via Azure IoT Central Platform pour créer un projet IoT de bout en
+bout
+- Utiliser du matériel 100 % open-source de manière pythonique
+- Construiser votre interpréteur de programme à partir de 90 % avec un écran LCD et un
+boîtier compact
+- Créer une interface graphique intégrée avec des éléments graphiques faciles à utiliser et
+de superbes outils d'édition visualisés.
