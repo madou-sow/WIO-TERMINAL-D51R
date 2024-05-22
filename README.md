@@ -179,7 +179,7 @@ root@port-lipn12:~# usermod -a -G dialout mamadou
 
 <img alt="https://www.arduino.cc/en/software" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/download-arduino1.png" width=30% height=30%  title="[WIOT]"/>
 
-!['aaa'](https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/download-arduino1.png)(https://www.arduino.cc/en/software)
+[!['aaa'](https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/download-arduino1.png)](https://www.arduino.cc/en/software)
 
   
 Double-cliquez sur l'application Arduino IDE que vous avez précédemment téléchargée et procéder à l’installation de l’application.
