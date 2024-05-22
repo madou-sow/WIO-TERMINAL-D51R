@@ -11,4 +11,6 @@ Raspberry pi pour plus d'add-ons. Tous ces modules complémentaires pratiques so
 logés dans un boîtier compact, ce qui en fait un produit efficace et prêt à l'emploi. Équipé d'un
 GPIO Raspberry Pi 40 broches, il peut être monté sur un Raspberry Pi en tant qu'appareil esclave.
 
-https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/fig-wio.png
+
+  <img alt="WIOT" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/fig-wio.png" width=70% height=70%  title="WIOT"/>
+
