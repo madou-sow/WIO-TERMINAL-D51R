@@ -137,3 +137,8 @@ carte Raspberry Pi.
 
   <img alt="WIOT schema" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/present-mat-wio.png" width=70% height=70%  title="WIOT schema"/>
 
+### Schéma du brochage
+
+ <img alt="WIOT broche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/schema-broche.png" width=70% height=70%  title="WIOT broche"/>
+
+
