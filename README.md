@@ -134,3 +134,6 @@ carte Raspberry Pi.
 - Dimensions: 72 x 57 x 12 mm
 - Matériaux: ABS et polycarbonate
 - Livré avec cordon USB Type-C (environ 20 cm)
+
+  <img alt="WIOT schema" src=" https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/present-mat-wio.png " width=70% height=70%  title="WIOT schema"/>
+
