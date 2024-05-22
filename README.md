@@ -148,7 +148,7 @@ carte Raspberry Pi.
 - Ordinateur
 - Câble USB Type-C
 
-   <img alt="WIOT branche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/schema-broche.png" width=70% height=70%  title="WIOT branche"/>
+   <img alt="WIOT branche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/connex-wio.png" width=70% height=70%  title="WIOT branche"/>
 
 Connecter le terminal Wio à votre ordinateur via un câble USB. La LED bleue à l'arrière doit
 s'allumer. Un nouveau port devrait apparaître avec la commande :
