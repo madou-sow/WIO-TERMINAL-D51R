@@ -10,3 +10,5 @@ Grove multifonctionnels pour l'écosystème Grove et d'un GPIO à 40 broches com
 Raspberry pi pour plus d'add-ons. Tous ces modules complémentaires pratiques sont soigneusement
 logés dans un boîtier compact, ce qui en fait un produit efficace et prêt à l'emploi. Équipé d'un
 GPIO Raspberry Pi 40 broches, il peut être monté sur un Raspberry Pi en tant qu'appareil esclave.
+
+https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/fig-wio.png
