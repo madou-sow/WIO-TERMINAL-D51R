@@ -162,3 +162,14 @@ crw-rw---- 1 root dialout 4, 64 déc. 29 09:09 /dev/ttyS0
 crw-rw---- 1 root dialout 4, 65 déc. 29 09:09 /dev/ttyS1
 
 ```
+En général, il s’agit du port /dev/ttyACM0. Avant de téléverser un programme dans la carte, il vous
+faudra probablement modifier les droits d’accès au port USB (message Error opening serial port...).
+La raison est que le propriétaire du fichier /dev/ttyACM0 fait partie du groupe dialout :
+
+```
+crw-rw---- 1 root dialout 166,0 déc. 29 09:09 /dev/ttyACM0
+```
+Il faut donc ajouter l’utilisateur à ce groupe :
+```
+root@port-lipn12:~# usermod -a -G dialout mamadou
+```
