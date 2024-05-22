@@ -88,5 +88,4 @@ boîtier compact
 - Créer une interface graphique intégrée avec des éléments graphiques faciles à utiliser et
 de superbes outils d'édition visualisés.
 
-léments graphiques faciles à utiliser et
-de superbes outils d'édition visualisés.
+ <img alt="WIOT" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/descrip-wio.png" width=70% height=70%  title="WIOT"/>
