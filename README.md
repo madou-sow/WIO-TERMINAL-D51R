@@ -176,6 +176,10 @@ root@port-lipn12:~# usermod -a -G dialout mamadou
 
 #### Logiciel
 - 1. Installer un logiciel Arduino
+
+<img alt="WIOT branche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/connex-wio.png" width=70% height=70%  title="WIOT branche"/>
+ https://www.arduino.cc/en/software
+  
 Double-cliquez sur l'application Arduino IDE que vous avez précédemment téléchargée et procéder à l’installation de l’application.
 - 2. Ouvrir l'exemple Blink
 Ouvrez l'exemple d'esquisse de clignotement de LED : **Fichier > Exemples > 01.Basics > Blink**.
