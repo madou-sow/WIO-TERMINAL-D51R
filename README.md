@@ -20,7 +20,7 @@ GPIO Raspberry Pi 40 broches, il peut être monté sur un Raspberry Pi en tant q
 fonctionnant à 120 MHz
 
 - Connectivité sans fil fiable : équipé de Realtek RTL8720DN, Wi-Fi bi-bande 2,4 Ghz/5 Ghz.
- Système complet équipé d'un écran + carte de développement + interface d'entrée/sortie +
+- Système complet équipé d'un écran + carte de développement + interface d'entrée/sortie +
 boîtier
  Conception hautement intégrée : écran LCD 2,4 pouces, MCU, IMU, WIFI, BT et d'autres
 modules complémentaires pratiques logés dans un boîtier compact avec des aimants intégrés
