@@ -89,3 +89,48 @@ boîtier compact
 de superbes outils d'édition visualisés.
 
  <img alt="WIOT" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/descrip-wio.png" width=70% height=70%  title="WIOT"/>
+
+
+ Le système complet Wio Terminal est idéal pour la réalisation de projets multimédias, ludiques et
+connectés nécessitant un affichage graphique.
+- Fonctionnalités : Ce module est une solution rapide et pratique pour la réalisation d'une
+interface graphique connectée en Bluetooth ou en WiFi.
+Le Wio Terminal intègre un accéléromètre, un capteur de luminosité, 3 boutons
+configurables, un émetteur IR, un joystick, un micro et un buzzer.
+- Connectique : Ce petit afficheur comprend 2 ports compatibles avec le système Grove de
+Seeedstudio. Ces deux connecteurs permettent l'utilisation de modules ou capteurs
+compatibles (voir liste de compatibilité).
+Un connecteur GPIO permet d'enficher ce module sur une carte Raspberry Pi. Ce connecteur
+permet l'utilisation de l'afficheur, des différents capteurs intégrés et de la connectique Grove
+sur Raspberry Pi.
+- Programmation : Le Wio Terminal est compatible Arduino, MicroPython et ArduPy.
+Seeedstudio met à disposition un guide d'utilisation en anglais.
+ArduPy est une combinaison d'Arduino et de MicroPython. Le code MicroPython utilise les API Arduino pour piloter le matériel.
+- Exemples d'applications : Terminal Python portable, lecteur portable multimédia, console
+de jeux rétro, module IoT avec capteurs Grove ou encore module esclave raccordé à une
+carte Raspberry Pi.
+
+**Caractéristiques techniques :**
+
+- Alimentation : 5 Vcc via le port USB Type-C
+- Microcontrôleur: ARM Cortex-M4 à 120 MHz (ATSAMD51P19)
+- Mémoire FLASH: 4 MB
+- Mémoire RAM: 192 KB
+- Contrôleur Realtek RTL8720DN
+  -- WiFi: 2,4 et 5 GHz - 802.11 a/b/g/n
+  -- Bluetooth: BLE 5.0
+- Afficheur: 2,4" - 320 x 240 pixels
+- Accéléromètre LIS3DHTR: ±2 g, ±4 g, ±8 g et ±16 g
+- Connecteur GPIO 40 broches compatible Raspberry Pi
+- Compatible USB OTG : hôte et client USB
+- Interfaces Grove : digitale, analogique, I2C et PWM
+- Buzzer (niveau sonore: ≥78 dB)
+- Micro intégré (sensibilité: -42 dB)
+- Capteur de lumière : 400-1050 nm
+- Emetteur IR: 940 nm
+- Connecteur FPC 20 broches
+- Support pour carte micro-SD: 16 Go maxi
+- Température de service: -40 à 85 °C
+- Dimensions: 72 x 57 x 12 mm
+- Matériaux: ABS et polycarbonate
+- Livré avec cordon USB Type-C (environ 20 cm)
