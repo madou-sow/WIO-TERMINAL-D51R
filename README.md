@@ -12,7 +12,7 @@ logés dans un boîtier compact, ce qui en fait un produit efficace et prêt à 
 GPIO Raspberry Pi 40 broches, il peut être monté sur un Raspberry Pi en tant qu'appareil esclave.
 
 
-  <img alt="WIOT" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/fig-wio.png" width=70% height=70%  title="WIOT"/>
+  <img alt="WIOT" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/fig-wio.png" width=30% height=30%  title="WIOT"/>
 
 ### Principales caractéristiques
 
@@ -88,7 +88,7 @@ boîtier compact
 - Créer une interface graphique intégrée avec des éléments graphiques faciles à utiliser et
 de superbes outils d'édition visualisés.
 
- <img alt="WIOT" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/descrip-wio.png" width=70% height=70%  title="WIOT"/>
+ <img alt="WIOT" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/descrip-wio.png" width=30% height=30%  title="WIOT"/>
 
 
  Le système complet Wio Terminal est idéal pour la réalisation de projets multimédias, ludiques et
@@ -139,7 +139,7 @@ carte Raspberry Pi.
 
 ### Schéma du brochage
 
- <img alt="WIOT broche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/schema-broche.png" width=70% height=70%  title="WIOT broche"/>
+ <img alt="WIOT broche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/schema-broche.png" width=30% height=30%  title="WIOT broche"/>
 
 ### Installation et Utilisation
 #### Matériel
@@ -148,7 +148,7 @@ carte Raspberry Pi.
 - Ordinateur
 - Câble USB Type-C
 
-   <img alt="WIOT branche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/connex-wio.png" width=70% height=70%  title="WIOT branche"/>
+   <img alt="WIOT branche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/connex-wio.png" width=30% height=30%  title="WIOT branche"/>
 
 Connecter le terminal Wio à votre ordinateur via un câble USB. La LED bleue à l'arrière doit
 s'allumer. Un nouveau port devrait apparaître avec la commande :
