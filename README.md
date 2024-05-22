@@ -141,4 +141,24 @@ carte Raspberry Pi.
 
  <img alt="WIOT broche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/schema-broche.png" width=70% height=70%  title="WIOT broche"/>
 
+### Installation et Utilisation
+#### Matériel
+- Matériaux nécessaires
+- Borne Wio
+- Ordinateur
+- Câble USB Type-C
 
+   <img alt="WIOT branche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/schema-broche.png" width=70% height=70%  title="WIOT branche"/>
+
+Connecter le terminal Wio à votre ordinateur via un câble USB. La LED bleue à l'arrière doit
+s'allumer. Un nouveau port devrait apparaître avec la commande :
+```
+root@port-lipn12:~# ls -l /dev/tty*
+crw--w---- 1 root tty 4, 8 déc. 29 09:09 /dev/tty8
+crw--w---- 1 root tty 4, 9 déc. 29 09:09 /dev/tty9
+crw-rw---- 1 root dialout 166, 0 déc. 29 09:09 /dev/ttyACM0
+crw------- 1 root root 5, 3 déc. 29 09:09 /dev/ttyprintk
+crw-rw---- 1 root dialout 4, 64 déc. 29 09:09 /dev/ttyS0
+crw-rw---- 1 root dialout 4, 65 déc. 29 09:09 /dev/ttyS1
+
+```
