@@ -173,3 +173,13 @@ Il faut donc ajouter l’utilisateur à ce groupe :
 ```
 root@port-lipn12:~# usermod -a -G dialout mamadou
 ```
+
+#### Logiciel
+- 1. Installer un logiciel Arduino
+Double-cliquez sur l'application Arduino IDE que vous avez précédemment téléchargée et procéder à l’installation de l’application.
+- 2. Ouvrir l'exemple Blink
+Ouvrez l'exemple d'esquisse de clignotement de LED : **Fichier > Exemples > 01.Basics > Blink**.
+- 3. Ajouter le fichier de carte requis pour le terminal Wio ou Ajouter la bibliothèque Wio Terminal Board
+Dans le menu supérieur Arduino, allez dans **Fichier -> Préférences et copiez/collez**
+**https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json** dans la zone URL
+supplémentaires du gestionnaire de cartes :
