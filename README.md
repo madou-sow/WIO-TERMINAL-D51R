@@ -183,3 +183,6 @@ Ouvrez l'exemple d'esquisse de clignotement de LED : **Fichier > Exemples > 01.B
 Dans le menu supérieur Arduino, allez dans **Fichier -> Préférences et copiez/collez**
 **https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json** dans la zone URL
 supplémentaires du gestionnaire de cartes :
+
+   <img alt="WIOT ref" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/rajout-pref.png" width=70% height=70%  title="WIOT ref"/>
+   
