@@ -87,3 +87,6 @@ bout
 boîtier compact
 - Créer une interface graphique intégrée avec des éléments graphiques faciles à utiliser et
 de superbes outils d'édition visualisés.
+
+léments graphiques faciles à utiliser et
+de superbes outils d'édition visualisés.
