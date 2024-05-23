@@ -201,3 +201,13 @@ Vous devrez sélectionner l'entrée dans le menu **Outils > Carte** qui correspo
 Sélection du **Seeeduino Wio Terminal**. Vous devrez ensuite sélectionner l'entrée dans le menu **Outils > Port**, le port **/dev/ttyACM0 pour la carte Seeeduino Wio Terminal**
 
   <img alt="WIOT port" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/portacm-seeed.png" width=70% height=70%  title="WIOT port"/>
+
+- 6. Téléverser le programme Blink
+L'exemple d'esquisse de clignotement de LED : **Fichier > Exemples > 01.Basics > Blink**.
+Maintenant, cliquez simplement sur le bouton Téléverser dans l'environnement. Attendez quelques
+secondes et si le téléversement est réussi, le message « téléversement terminé ». apparaîtra dans la
+barre d'état. Télécharger le code Quelques secondes après la fin du téléchargement, vous devriez
+voir le voyant au bas du terminal Wio commencer à clignoter. Si c'est le cas, félicitations ! Votre
+Wio Terminal est opérationnel.
+
+  <img alt="WIOT port" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/portacm-seeed.png" width=70% height=70%  title="WIOT port"/>
