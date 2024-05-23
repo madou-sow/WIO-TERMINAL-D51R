@@ -12,7 +12,7 @@ logés dans un boîtier compact, ce qui en fait un produit efficace et prêt à 
 GPIO Raspberry Pi 40 broches, il peut être monté sur un Raspberry Pi en tant qu'appareil esclave.
 
 
-  <img alt="WIOT" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/fig-wio.png" width=30% height=30%  title="WIOT"/>
+  <img alt="WIOT" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/fig-wio.png" width=50% height=50%  title="WIOT"/>
 
 ### Principales caractéristiques
 
@@ -139,7 +139,7 @@ carte Raspberry Pi.
 
 ### Schéma du brochage
 
- <img alt="WIOT broche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/schema-broche.png" width=30% height=30%  title="WIOT broche"/>
+ <img alt="WIOT broche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/schema-broche.png" width=50% height=50%  title="WIOT broche"/>
 
 ### Installation et Utilisation
 #### Matériel
