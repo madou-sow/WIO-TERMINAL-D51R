@@ -311,3 +311,6 @@ void setup() {
 void loop() {
 }
 ```
+
+
+<img alt="WIOT hello" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/lcd_wio_helloword.jpg" width=70% height=70%  title="WIOT hello"/>
