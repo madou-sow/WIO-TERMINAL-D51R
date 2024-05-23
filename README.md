@@ -200,4 +200,5 @@ supplémentaires du gestionnaire de cartes :
 Vous devrez sélectionner l'entrée dans le menu **Outils > Carte** qui correspond à votre Arduino
 Sélection du **Seeeduino Wio Terminal**.
 Vous devrez ensuite sélectionner l'entrée dans le menu **Outils > Port**,
+
 le port **/dev/ttyACM0 pour la carte Seeeduino Wio Terminal**
