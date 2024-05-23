@@ -229,4 +229,17 @@ void loop() {
 
  <img alt="WIOT rouge" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/lcd_wio_rouge.jpg" width=70% height=70%  title="WIOT rouge"/>
 
-  <img alt="WIOT port" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/televerser-blink-seeed.png" width=70% height=70%  title="WIOT port"/>
+ ```
+#include"TFT_eSPI.h"
+TFT_eSPI tft;
+void setup() {
+          tft.begin();
+          tft.setRotation(3);
+          //tft.fillScreen(TFT_RED); // fills entire the screen with colour red
+          tft.fillScreen(TFT_GREEN); // fills entire the screen with colour GREEN
+}
+void loop() {
+}
+```
+
+  <img alt="WIOT vert" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/lcd_wio_green.jpg" width=70% height=70%  title="WIOT vert"/>
