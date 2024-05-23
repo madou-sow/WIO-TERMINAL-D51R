@@ -243,3 +243,40 @@ void loop() {
 ```
 
   <img alt="WIOT vert" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/lcd_wio_vert.jpg" width=70% height=70%  title="WIOT vert"/>
+
+  Vous pouvez rencontrer un problème d’affichage à l’écran lié à un conflit entre les librairies LCD,
+en effet les librairies LCD sont incluses dans la bibliothèque de la borne Wio. Dans ce cas la
+résolution est simple il faut supprimer les répertoires de ses libraires de votre répertoire de travail.
+```
+mamadou@port-lipn12:~/Arduino/libraries$ rm -rdf TFT*
+```
+
+#### Fonctions graphiques de base
+
+Ce référentiel décrit certaines des fonctions graphiques de base de la bibliothèque LCD TFT sur
+Wio Terminal. Vous pouvez utiliser ces fonctions pour créer vos propres fonctions de dessin !
+
+```
+#include"TFT_eSPI.h"
+TFT_eSPI tft;
+void setup() {
+            tft.begin();
+            tft.setRotation(3);
+            tft.fillScreen(TFT_RED); // fills entire the screen with colour red
+            tft.drawPixel(4,7,TFT_BLACK); //drawing a black pixel at (4,7)
+            tft.drawFastHLine(0,120,320,TFT_BLACK); //A black horizontal line starting
+            from (0, 120)
+            tft.drawFastVLine(160,0,240,TFT_BLACK); // A black vertical line starting
+            from (160, 0)
+            tft.drawRect(110,70,100,100,TFT_BLACK); //A 100x100 black rectangle
+            starting from (110, 70)
+            tft.drawCircle(160,120,50,TFT_BLACK); //A black circle origin at (160, 120)
+            tft.drawEllipse(160,120,50,100,TFT_BLACK);//A black ellipse origin at (160,
+            120) with horizontal radius of 50, and vertical radius of 100
+            tft.drawTriangle(160,70,60,170,260,170,TFT_BLACK); //A triangle with points
+            at (160, 70), (60, 170) and (260, 170)
+            tft.drawRoundRect(110,70,100,100,10,TFT_BLACK);
+}
+void loop() {
+}
+```
