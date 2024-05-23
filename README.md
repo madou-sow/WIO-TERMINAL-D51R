@@ -281,12 +281,33 @@ void loop() {
 }
 ```
 
-
-
 <img alt="WIOT graph" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/function-graphycs.png" width=70% height=70%  title="WIOT graph"/>
 
-
-
-
-
 <img alt="WIOT lcd graph" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/lcd_wio_graphyc.jpg" width=70% height=70%  title="WIOT lcd graph"/>
+
+#### Dessiner des caractères et des chaînes de texte
+
+Pour dessiner un seul caractère et chaînes sur l'écran LCD :
+
+```
+#include"TFT_eSPI.h"
+TFT_eSPI tft;
+void setup() {
+          tft.begin();
+          tft.setRotation(3);
+          tft.fillScreen(TFT_RED); //Red background
+          tft.drawChar(140,120,'A',TFT_BLACK, TFT_RED,2); //Draw a black character A
+          from (140,120)
+          tft.drawChar(155,120,'B',TFT_BLACK, TFT_RED,2); //Draw a black character B
+          from (155,120)
+          tft.drawChar(170,120,'C',TFT_BLACK, TFT_RED,2); //Draw a black character C
+          from (170,120)
+          tft.setTextColor(TFT_BLACK); //sets the text colour to black
+          tft.setTextSize(2); //sets the size of text
+          tft.drawString("Hello world!", 0, 0); //prints strings from (0, 0)
+          tft.setTextSize(4);
+          tft.drawString("Hello world!", 0, 20);
+}
+void loop() {
+}
+```
