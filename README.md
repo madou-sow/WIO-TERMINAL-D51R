@@ -200,4 +200,4 @@ supplémentaires du gestionnaire de cartes :
 Vous devrez sélectionner l'entrée dans le menu **Outils > Carte** qui correspond à votre Arduino
 Sélection du **Seeeduino Wio Terminal**. Vous devrez ensuite sélectionner l'entrée dans le menu **Outils > Port**, le port **/dev/ttyACM0 pour la carte Seeeduino Wio Terminal**
 
-  <img alt="WIOT module" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/insaller-wio-module.png" width=70% height=70%  title="WIOT module"/>
+  <img alt="WIOT port" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/portacm-seeed.png" width=70% height=70%  title="WIOT port"/>
