@@ -280,3 +280,7 @@ void setup() {
 void loop() {
 }
 ```
+
+
+
+<img alt="WIOT graph" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/function-graphycs.png" width=70% height=70%  title="WIOT graph"/>
