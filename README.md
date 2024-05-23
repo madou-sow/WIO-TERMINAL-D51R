@@ -284,3 +284,9 @@ void loop() {
 
 
 <img alt="WIOT graph" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/function-graphycs.png" width=70% height=70%  title="WIOT graph"/>
+
+
+
+
+
+<img alt="WIOT lcd graph" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/lcd_wio_graphyc.jpg" width=70% height=70%  title="WIOT lcd graph"/>
