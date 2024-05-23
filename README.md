@@ -191,4 +191,7 @@ Dans le menu supérieur Arduino, allez dans **Fichier -> Préférences et copiez
 supplémentaires du gestionnaire de cartes :
 
    <img alt="WIOT ref" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/rajout-pref.png" width=70% height=70%  title="WIOT ref"/>
-   
+
+- 4. Cliquer sur **Outils -> Tableau -> Gestionnaire de Carte et recherchez Wio Terminal**
+
+  <img alt="WIOT ref" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/rajout-pref.png" width=70% height=70%  title="WIOT ref"/>
