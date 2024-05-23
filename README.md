@@ -1,5 +1,4 @@
-## WIO TERMINAL (D51R) - Terminal Wio : ATSAMD51 Core avec Realtek RTL8720DN BLE 5.0 et carte de développement Wi-Fi 2.4G/5G
-
+## WIO TERMINAL (D51R) - Terminal Wio : ATSAMD51 Core avec Realtek RTL8720DN BLE 5.0,  Wi-Fi 2.4G/5G et carte de développement
 Wio Terminal est un microcontrôleur basé sur ATSAMD51 avec une connectivité sans fil Bluetooth
 et Wi-Fi alimenté par Realtek RTL8720DN, compatible avec Arduino et MicroPython.
 Actuellement, la connectivité sans fil n'est prise en charge que par Arduino. Plus qu'un simple
