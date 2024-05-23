@@ -227,6 +227,6 @@ void loop() {
 }
 ```
 
- <img alt="WIOT port" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/televerser-blink-seeed.png" width=70% height=70%  title="WIOT port"/>
+ <img alt="WIOT rouge" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/lcd_wio_rouge.jpg" width=70% height=70%  title="WIOT rouge"/>
 
   <img alt="WIOT port" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/televerser-blink-seeed.png" width=70% height=70%  title="WIOT port"/>
