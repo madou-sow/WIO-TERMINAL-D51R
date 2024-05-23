@@ -211,3 +211,6 @@ voir le voyant au bas du terminal Wio commencer à clignoter. Si c'est le cas, f
 Wio Terminal est opérationnel.
 
   <img alt="WIOT port" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/televerser-blink-seeed.png" width=70% height=70%  title="WIOT port"/>
+
+#### Exemple de code
+Cet exemple initialise l'écran LCD TFT sur le terminal Wio et remplit l'écran de couleur rouge sketch_lcd-red.ino
