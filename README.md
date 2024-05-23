@@ -242,4 +242,4 @@ void loop() {
 }
 ```
 
-  <img alt="WIOT vert" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/lcd_wio_green.jpg" width=70% height=70%  title="WIOT vert"/>
+  <img alt="WIOT vert" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/lcd_wio_vert.jpg" width=70% height=70%  title="WIOT vert"/>
