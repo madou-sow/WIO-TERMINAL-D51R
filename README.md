@@ -88,7 +88,7 @@ boîtier compact
 - Créer une interface graphique intégrée avec des éléments graphiques faciles à utiliser et
 de superbes outils d'édition visualisés.
 
- <img alt="WIOT" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/descrip-wio.png" width=30% height=30%  title="WIOT"/>
+ <img alt="WIOT" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/descrip-wio.png" width=50% height=50%  title="WIOT"/>
 
 
  Le système complet Wio Terminal est idéal pour la réalisation de projets multimédias, ludiques et
@@ -148,7 +148,7 @@ carte Raspberry Pi.
 - Ordinateur
 - Câble USB Type-C
 
-   <img alt="WIOT branche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/connex-wio.png" width=30% height=30%  title="WIOT branche"/>
+   <img alt="WIOT branche" src="https://github.com/madou-sow/WIO-TERMINAL-D51R/blob/main/images/connex-wio.png" width=50% height=50%  title="WIOT branche"/>
 
 Connecter le terminal Wio à votre ordinateur via un câble USB. La LED bleue à l'arrière doit
 s'allumer. Un nouveau port devrait apparaître avec la commande :
